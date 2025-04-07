@@ -1,2 +1,0 @@
- DELETE FROM members
- WHERE TIMESTAMPDIFF(SECOND, Enrollment_Date, NOW()) > 5;
