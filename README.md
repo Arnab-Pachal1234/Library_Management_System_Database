@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A simple SQL-based Library Management System to manage *books, **members, and **borrowing records* efficiently.
+A simple SQL-based Library Management System to manage **books**, **members**, and **borrowing records** efficiently.
 
 ---
 
